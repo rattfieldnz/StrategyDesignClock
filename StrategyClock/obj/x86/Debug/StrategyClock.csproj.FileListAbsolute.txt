@@ -1,0 +1,7 @@
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Debug\StrategyClock.Form1.resources
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Debug\StrategyClock.Properties.Resources.resources
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Debug\StrategyClock.csproj.GenerateResource.Cache
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\bin\Debug\StrategyClock.exe
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\bin\Debug\StrategyClock.pdb
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Debug\StrategyClock.exe
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Debug\StrategyClock.pdb

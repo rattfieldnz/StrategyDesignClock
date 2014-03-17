@@ -1,0 +1,16 @@
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.Form1.resources
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.Properties.Resources.resources
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.csproj.GenerateResource.Cache
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\bin\Release\StrategyClock.exe
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\bin\Release\StrategyClock.pdb
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.csprojResolveAssemblyReference.cache
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.exe
+C:\Users\attfire1\Desktop\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.exe
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\bin\Release\StrategyClock.exe
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\bin\Release\StrategyClock.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.csprojResolveAssemblyReference.cache
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.Form1.resources
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.Properties.Resources.resources
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\StrategyClock\StrategyClock\StrategyClock\obj\x86\Release\StrategyClock.csproj.GenerateResource.Cache
